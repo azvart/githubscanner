@@ -1,0 +1,5 @@
+projects:
+  githubscanner:
+    schema: schema.graphql
+    documents: server/**/*.{graphql,js,ts}
+
